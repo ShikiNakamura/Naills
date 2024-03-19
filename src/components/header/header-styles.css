@@ -1,0 +1,30 @@
+.header_container {
+  width: 100%;
+	height: 100%;
+  position: absolute;
+	background-image: url("../../img/hand.webp");
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: 80%;
+	
+	
+	}
+
+.name {
+	width: 226px;
+	height: 27px;
+	display: inline;
+	font-size: 22px;
+	margin: 22px 0px 10px ;
+	left: 32px;
+	}
+
+	.label, .home, .services{
+		text-decoration: none;
+		color: #928062;
+	}
+
+	.label {
+		line-height: normal;
+		
+	}
