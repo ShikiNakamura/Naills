@@ -3,5 +3,7 @@ body{
 	color: #928062;
 	background: #c2b6a3;
 	vertical-align: baseline;
-	display: block;
+	height: 100%;
+	width: 100%;
 }
+
