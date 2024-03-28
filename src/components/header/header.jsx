@@ -22,24 +22,20 @@ function Header() {
         </div>
 
         <div className="slogan">
-          <div className="welcome">
-            <p>WELCOME TO THE NAIL STUDIO</p>
-          </div>
-
-          <div className="beauty">
-            <p>BEAUTY</p>
-          </div>
-
-          <div className="start">
-            <p>STARTS WITH NAILS</p>
-          </div>
-
-          <div className="moto">
-            <p>
-              "we believe that every manicure and pedicure should be an
-              experience to remember"
-            </p>
-          </div>
+          <p className="welcome">
+            {" "}
+            <b>WELCOME TO THE NAIL STUDIO </b>
+          </p>
+          <p className="beauty">
+            <b>BEAUTY</b>
+          </p>
+          <p className="start">
+            <b>STARTS WITH NAILS</b>
+          </p>
+          <p className="moto">
+            "we believe that every manicure and pedicure <br />
+            should be an experience to remember"
+          </p>
         </div>
       </div>
     </header>
